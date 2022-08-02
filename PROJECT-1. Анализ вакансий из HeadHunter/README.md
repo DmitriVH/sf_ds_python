@@ -10,5 +10,8 @@ https://drive.google.com/open?id=1jIz0Huqk8-Y1mKlBTsbEE4KgCTUK5wD8&authuser=petr
 
 В папку "plotly" сохранены сохранены графики в формате HTML, построенные в библиотеке Plotly
 
-дополнительно оставляю здесь ссылку на ноутбук проекта на Google диске:
+дополнительно оставляю ссылку на ноутбук проекта на Google диске:
 https://drive.google.com/open?id=1k58_lnY7g2GZNn2IyHYN6qNVuTM-bqh2&authuser=petroleumandgas%40gmail.com&usp=drive_fs
+
+дополнительно оставляю ссылку на Google диске на папку с диаграммами “plotly” c построенными графиками в формате HTML. Папка занимает объем 142 Мб, полностью разместить ее на Github не представляется возможным
+https://drive.google.com/open?id=1jKJ3hM0wgczbhHZy56Xusb1aGZR-B3jg&authuser=petroleumandgas%40gmail.com&usp=drive_fs
