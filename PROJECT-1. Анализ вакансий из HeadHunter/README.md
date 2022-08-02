@@ -7,3 +7,5 @@ https://drive.google.com/open?id=1jEvKJgF6qApWXlkuna_KPqoBxQjqVqYt&authuser=petr
 https://drive.google.com/open?id=1jIz0Huqk8-Y1mKlBTsbEE4KgCTUK5wD8&authuser=petroleumandgas%40gmail.com&usp=drive_fs
 
 В файле .gitignore репозитория тип файлов *.csv добавлен в исключения
+
+В папку "plotly" сохранены сохранены графики в формате HTML, построенные в библиотеке Plotly
